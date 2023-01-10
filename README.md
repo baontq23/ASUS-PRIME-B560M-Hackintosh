@@ -38,6 +38,23 @@ Hackintosh Asus Prime B560M-A + I5-10400 + RX5600XT
 | GPU       | SAPPHIRE PULSE RX 5600 XT 6GB |
 | WiFi & BT | BCM94360CS2   |
 
+## Read these before you start:
+
+- [dortania's Hackintosh guides](https://github.com/dortania).
+- [dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/).
+- [dortania's OpenCore Post Install Guide](https://dortania.github.io/OpenCore-Post-Install/).
+- [dortania/ Getting Started with ACPI](https://dortania.github.io/Getting-Started-With-ACPI/).
+- [dortania/ opencore `multiboot`](https://github.com/dortania/OpenCore-Multiboot).
+- [dortania/ `USB map` guide](https://dortania.github.io/OpenCore-Post-Install/usb/).
+- `Configuration.pdf` and `Differences.pdf` in each `OpenCore` releases.
+
+## Wi-Fi CARD
+My Wi-Fi card is BCM94360CS2, you need to get a NGFF card like this one.
+
+<p align="center">
+    <a href="">
+        <img src="https://i.imgur.com/qnRNLmP.jpg" alt="B560M Hackintosh" width="400"> </a>
+</p>
 
 # Credits
 
