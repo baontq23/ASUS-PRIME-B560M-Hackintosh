@@ -26,7 +26,7 @@ Hackintosh Asus Prime B560M-A + I5-10400 + RX5600XT
 | USB 2.0, USB 3.0, Type-C                   | ✅   | `USBToolBox`    |
 
 
-# Specs
+# Specification
 
 | Category  | ASUS-PRIME-B560M-A       |
 | --------- | ------------------------ |
