@@ -1,4 +1,4 @@
-# ASUS-PRIME-B560M-Hackintosh
+# ASUS-PRIME-B560M-A-Hackintosh
 Hackintosh Asus Prime B560M-A + I5-10400 + RX5600XT
 
 <p align="center">
@@ -31,7 +31,7 @@ Hackintosh Asus Prime B560M-A + I5-10400 + RX5600XT
 | Category  | ASUS-PRIME-B560M-A       |
 | --------- | ------------------------ |
 | CPU       | Intel Core i5-10400      |
-| SSD       | Samsung 980 PRO 512GB    |
+| SSD       | Samsung 970 EVO PLUS 1TB    |
 | RAM       | 16GB DDR4 2666 Mhz       |
 | AUDIO     | ALC897      |
 | LAN       | Intel I219-V      |
