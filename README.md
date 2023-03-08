@@ -1,6 +1,8 @@
 # ASUS-PRIME-B560M-A-Hackintosh
 Hackintosh Asus Prime B560M-A + I5-10400 + RX5600XT
 
+[New repo for 11th CPU](https://github.com/baontq23/Intel-11th-ASUS-PRIME-B560M-Hackintosh)
+
 <p align="center">
     <a href="https://www.apple.com/macos/monterey/">
         <img src="https://img.shields.io/badge/Monterey-12.6-purple"></a>
